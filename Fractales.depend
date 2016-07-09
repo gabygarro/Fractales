@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1410285751 source:c:\users\gabygarro\google drive\fractales\fractales\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1409079387 c:\users\gabygarro\google drive\fractales\fractales\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1408908474 c:\users\gabygarro\google drive\fractales\fractales\node.h
+
+1410153651 source:e:\google drive\documents\tec\ii semestre\datos\fractales\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1409079387 e:\google drive\documents\tec\ii semestre\datos\fractales\include\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1408908474 e:\google drive\documents\tec\ii semestre\datos\fractales\include\node.h
+
+1411011609 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\main.cpp
+	<winbgim.h>
+	<iostream>
+	"LinkedList.h"
+	"ListaCurvaDragon.h"
+	"ListaSierpisnky.h"
+	"ListaLevyC.h"
+	"Fractal.h"
+	"Colores.h"
+
+1410463826 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1410463821 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\node.h
+
+1410844929 source:c:\users\gabygarro\dropbox\proyectos\fractales\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"ListaCurvaDragon.h"
+	"ListaSierpisnky.h"
+	"ListaLevyC.h"
+	"Fractal.h"
+	"Colores.h"
+
+1410342203 c:\users\gabygarro\dropbox\proyectos\fractales\include\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1410297411 c:\users\gabygarro\dropbox\proyectos\fractales\include\node.h
+
+1411010303 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\listalevyc.h
+
+1411010283 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\listasierpisnky.h
+
+1411010254 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\listacurvadragon.h
+
+1410833707 c:\users\gabygarro\dropbox\proyectos\fractales\include\listacurvadragon.h
+
+1410840488 c:\users\gabygarro\dropbox\proyectos\fractales\include\listasierpisnky.h
+
+1410834074 c:\users\gabygarro\dropbox\proyectos\fractales\include\listalevyc.h
+
+1410405583 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\dibujardragon.h
+
+1410405583 c:\users\gabygarro\dropbox\proyectos\fractales\include\dibujardragon.h
+
+1410421737 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\curvadragon.h
+	<winbgim.h>
+	"Punto.h"
+
+1410477667 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\punto.h
+
+1410445163 c:\users\gabygarro\dropbox\proyectos\fractales\include\curvadragon.h
+	<winbgim.h>
+	"Punto.h"
+
+1410477667 c:\users\gabygarro\dropbox\proyectos\fractales\include\punto.h
+
+1410463360 source:c:\users\curso\documents\fractales\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"ListaCurvaDragon.h"
+	"ListaSierpisnky.h"
+	"ListaLevyC.h"
+
+1410363802 c:\users\curso\documents\fractales\include\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1410319010 c:\users\curso\documents\fractales\include\node.h
+
+1410460531 c:\users\curso\documents\fractales\include\listacurvadragon.h
+
+1410462444 c:\users\curso\documents\fractales\include\listasierpisnky.h
+
+1410463347 c:\users\curso\documents\fractales\include\listalevyc.h
+
+1410427182 c:\users\curso\documents\fractales\include\dibujardragon.h
+
+1410466762 c:\users\curso\documents\fractales\include\curvadragon.h
+	<winbgim.h>
+	"Punto.h"
+
+1410440682 c:\users\curso\documents\fractales\include\punto.h
+
+1410482320 source:e:\dropbox\documents\cosas serias\tec\ii sem 2014\fractales\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"ListaCurvaDragon.h"
+	"ListaSierpisnky.h"
+	"ListaLevyC.h"
+	"Fractal.h"
+
+1410463826 e:\dropbox\documents\cosas serias\tec\ii sem 2014\fractales\include\linkedlist.h
+	<stdexcept>
+	"Node.h"
+
+1410463821 e:\dropbox\documents\cosas serias\tec\ii sem 2014\fractales\include\node.h
+
+1410463824 e:\dropbox\documents\cosas serias\tec\ii sem 2014\fractales\include\listacurvadragon.h
+
+1410463822 e:\dropbox\documents\cosas serias\tec\ii sem 2014\fractales\include\listasierpisnky.h
+
+1410470545 e:\dropbox\documents\cosas serias\tec\ii sem 2014\fractales\include\listalevyc.h
+
+1410480646 e:\dropbox\documents\cosas serias\tec\ii sem 2014\fractales\include\fractal.h
+	<math.h>
+	"Punto.h"
+	<winbgim.h>
+	<cmath>
+
+1410477667 e:\dropbox\documents\cosas serias\tec\ii sem 2014\fractales\include\punto.h
+
+1411010915 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\fractal.h
+	<math.h>
+	"Punto.h"
+	<winbgim.h>
+	<cmath>
+
+1410835993 c:\users\gabygarro\dropbox\proyectos\fractales\include\fractal.h
+	<math.h>
+	"Punto.h"
+	<winbgim.h>
+	<cmath>
+
+1410843206 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\sierpcolores.h
+	<math.h>
+	<winbgim.h>
+	<cmath>
+
+1411008252 e:\dropbox\documents\cosas serias\tec\ii sem 2014\proyectos\fractales\include\colores.h
+	<math.h>
+	<winbgim.h>
+	<cmath>
+
+1410843999 c:\users\gabygarro\dropbox\proyectos\fractales\include\colores.h
+	<math.h>
+	<winbgim.h>
+	<cmath>
+
